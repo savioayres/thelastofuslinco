@@ -3,15 +3,16 @@
 # Lincoln Pinto Duarte
 
 ## Olá pessoal 👋
-Sou apaixonado por Games 🎮
+Sou apaixonado por Games 🎮 <br/>
 Sou um Front-End Developer 🖥️
 
  Estou trabalhando como freelance 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript e React
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: 
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games R6, LoL, e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo:
+ <br/>
  ![Linkedin Badge](https://img.shields.io/badge/-Lincoln-Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincoln-duarte-39438815a/) 
 | <br/>
 ![Gmail Badge](https://img.shields.io/badge/-lincolnskyrim_99@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnskyrim_99@hotmail.com)
