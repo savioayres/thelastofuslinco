@@ -10,9 +10,9 @@ Sou um Front-End Developer 🖥️
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript e React
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games R6, LoL, e seriados no Netflix
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games R6, LoL, Netflix e comida baby
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
- [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincoln-duarte-39438815a/)](https://www.linkedin.com/in/lincoln-duarte-39438815a/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-LincolnDuarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincoln-duarte-39438815a/)](https://www.linkedin.com/in/lincoln-duarte-39438815a/) 
 | <br/>
 ![Gmail Badge](https://img.shields.io/badge/-lincolnskyrim_99@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnskyrim_99@hotmail.com)
