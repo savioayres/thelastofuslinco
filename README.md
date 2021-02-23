@@ -2,7 +2,7 @@
 
 # Lincoln Pinto Duarte
 
-## Olá pessoal 👋
+## Eae galera👋
 Sou apaixonado por Games 🎮 <br/>
 Sou um Front-End Developer 🖥️
 
