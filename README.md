@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://store.ubi.com/on/demandware.static/-/Sites-masterCatalog/default/dw8438ab5a/images/pdpbanner/56c494ad88a7e300458b4d44.jpg">
 
 # Lincoln Pinto Duarte
 
