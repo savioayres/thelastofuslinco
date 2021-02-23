@@ -17,9 +17,9 @@ Sou um Front-End Developer 🖥️
 <br/>
 ![Gmail Badge](https://img.shields.io/badge/-lincolnskyrim_99@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnskyrim_99@hotmail.com)
 <br/>
-🎮 Playstation: thelastofuslinco
+Playstation: thelastofuslinco
 <br/>
-🎮 Xbox: tortademonstro
+Xbox: tortademonstro
 <br/>
 Dircord: linquinho🕷#6987
 <br/>
