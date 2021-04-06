@@ -14,7 +14,6 @@ Sou um Front-End Developer 🖥️
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
  [![Linkedin Badge](https://img.shields.io/badge/-LincolnDuarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincoln-duarte-39438815a/)](https://www.linkedin.com/in/lincoln-duarte-39438815a/) 
-<br/>
 ![Gmail Badge](https://img.shields.io/badge/-lincolnskyrim_99@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnskyrim_99@hotmail.com)
 <br/>
 Playstation: thelastofuslinco
