@@ -8,8 +8,8 @@ Sou um Front-End Developer 🖥️
 
  Estou trabalhando como freelance 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript, Dart e C#
- <br/> :computer: &nbsp; Minha stack: Reactjs, Node.js, Flutter & Unity
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript, Dart, PHP e C#
+ <br/> :computer: &nbsp; Minha stack: Reactjs, Node.js, Wordpress Flutter & Unity
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games R6, LoL, Netflix e comida baby
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
