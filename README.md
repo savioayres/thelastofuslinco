@@ -2,25 +2,14 @@
 
 # Lincoln Pinto Duarte
 
-## Eae galera👋
-Sou apaixonado por Games 🎮 <br/>
-Sou um Front-End Developer 🖥️
-
- Estou trabalhando como freelance 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript, Dart, PHP e C#
- <br/> :computer: &nbsp; Minha stack: Reactjs, Node.js, Wordpress, Flutter & Unity
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games R6, LoL, Netflix e comida baby
+## What's up guys, welcome to my workspace👋
+I'm passionate about Games 🎮 <br/>
+I'm Front End Software Engineer 🖥️
+ <br/> :purple_heart: &nbsp; Looking to collaborate with Frontend projects using React and mobile with Flutter
+ <br/> :blush: &nbsp; I can help you with JavaScript, Dart, PHP and C#
+ <br/> :computer: &nbsp; Stacks: React.js, Node.js and Flutter
+ <br/> 💬  &nbsp; About me: I'm into tech, gamer and food lover
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
- [![Linkedin Badge](https://img.shields.io/badge/-LincolnDuarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincoln-duarte-39438815a/)](https://www.linkedin.com/in/lincoln-duarte-39438815a/) 
-![Gmail Badge](https://img.shields.io/badge/-lincolnskyrim_99@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lincolnskyrim_99@hotmail.com)
-<br/>
-Playstation: thelastofuslinco
-<br/>
-Xbox: tortademonstro
-<br/>
-Dircord: linquinho🕷#6987
-<br/>
-steam: thelastofuslinco
-
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincoln-duarte-39438815a/)](https://www.linkedin.com/in/lincoln-duarte-39438815a/)
+ [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:lincolnskyrim_99@hotmail.com)](mailto:lincolnskyrim_99@hotmail.com)
