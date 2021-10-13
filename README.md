@@ -9,7 +9,7 @@ I'm Front End Software Engineer 🖥️
  <br/> :blush: &nbsp; I can help you with JavaScript, Dart, PHP and C#
  <br/> :computer: &nbsp; Stacks: React.js, Node.js and Flutter
  <br/> 💬  &nbsp; About me: I'm into tech, gamer and food lover
- <br/> :email: &nbsp; Entre em contato comigo:
+ <br/> :email: &nbsp; contact me:
  <br/>
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lincoln-duarte-39438815a/)](https://www.linkedin.com/in/lincoln-duarte-39438815a/)
  [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:lincolnskyrim_99@hotmail.com)](mailto:lincolnskyrim_99@hotmail.com)
